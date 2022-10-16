@@ -1,0 +1,92 @@
+## Bilan des compétences - SAE S1.04 - Création d’une base de
+données
+
+=== Bilan technique :
+
+==== Contexte et objectifs :
+
+- _Objectif principal_ : Concevoir une base de données pour les données
+recueillies et vérifier leur conformité.
+- Trier les informations recensées du besoin du client (BECQUET).
+- Élaborer un compte-rendu explicatif des bases de données et de leurs
+schémas avec leur modélisation relationnelle.
+
+==== Problèmes rencontrés et solutions adoptées :
+
+- Interpréter la contrainte du client | Étudier la société et consulter des
+documents joints.
+- Produire le dictionnaire de données | Distinguer les différents attributs
+utilisés dans la base de données.
+- Conceptualiser et représenter la base de données | Découper et
+structurer la base de données (avec Win’Design).
+- Construire la base de données et insérer des données | Se consacrer aux
+cours de BD.
+- Réaliser le document récapitulatif | Utiliser Google Docs (Git).
+
+==== Objectifs et résultats :
+
+- ✓ Concevoir et conceptualiser la base de données grâce à une
+connaissance de la demande du client.
+- ✓ Implémenter les requêtes demandées.
+- ✓ Dresser un compte-rendu imposé.
+
+=== Bilan du travail d’équipe :
+
+==== Relations et fonctionnement de l’équipe :
+
+- _Accord au sein de l’équipe_ : Communiquer, participer, et être ponctuel.
+- Utilisation de Discord pour la communication au sein du groupe.
+- Utilisation de Google Sheets (Git) pour le dictionnaire de données.
+- Utilisation de Win’Design pour la modélisation des bases de données.
+- Utilisation de Google Docs (Git) pour la rédaction du compte-rendu.
+- Utilisation de SQL-Developer pour construire la base de données.
+
+==== Planification prévisionnelle / réelle des tâches :
+
+- *Temps prévisionnel : 12 heures | Temps réel : 11 heures.*
+
+==== Répartition du travail :
+
+- Comprendre le besoin du client | 2 membres.
+- Produire le dictionnaire de données | 2 membres.
+- Représenter les schémas de la base de données | 1 membre.
+- Créer la base de données séparément | 1 membre pour chaque partie.
+- Intégrer et vérifier la conformité des données | 2 membres.
+- Rédiger le compte-rendu du projet | 2 membres.
+
+=== Bilan de compétences personnelles :
+
+==== Place occupée / tâches prises en charge :
+
+- Exprimer l’intégralité du schéma conceptuel de la base de données via
+Win’Design.
+- *Les deux membres ont effectué les tâches réparties équitablement :*
+- Construire les différentes parties de la base de données.
+- Insérer les différentes données imposées.
+- Implémenter les requêtes souhaitées.
+- Rédiger le compte-rendu.
+
+==== Rapport entre les ressources et compétences :
+
+- Discerner le besoin du client : R1.08-ProjOrg.
+- Savoir organiser les tâches des membres du projet : R1.08-ProjOrg.
+- Conceptualiser, construire la base de données : R1.05-BD.
+- Insérer les données, implémenter les requêtes demandées : R1.05-BD.
+- Rédiger le compte-rendu : R1.02-DevWeb.
+
+==== Réussites et difficultés rencontrées :
+
+===== Réussites :
+
+- Compréhension satisfaisante du besoin du client.
+- Organisation des tâches mieux répartie et plus efficace.
+- Communication et assurance dans le travail réalisé jusque-là peu
+présente.
+- Amélioration en termes de productivité mais également en connaissance
+de la matière grâce à un partage de savoirs primordial.
+
+===== Difficultés :
+
+- Conceptualiser la base de données afin de trouver la forme la plus
+adaptée de celle-ci.
+- Utiliser l’outil Win’Design jusque-là, trop peu exploité.
