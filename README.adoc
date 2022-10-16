@@ -11,5 +11,5 @@ recueillies et vérifier leur conformité.
 
 *AUTEURS* : Mickaël FERNANDEZ et Tilian HURÉ (4A)
 
-- L'ensemble des scripts nécessaires à l'implémentation de la base de données sont disponibles depuis le dossier "Projet"
+- L'ensemble des scripts nécessaires à l'implémentation de la base de données sont disponibles depuis le dossier "Projet".
 
